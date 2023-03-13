@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Azeem 
 
-I'm a software engineer 👨‍💻 based in Dubai, who is passionate about latest technologies and open source.
+I'm a software engineer 👨‍💻 based in London, who is passionate about latest technologies and open source.
 
 
 - 🔭 I’m currently working on Mobile Apps and Back-end
